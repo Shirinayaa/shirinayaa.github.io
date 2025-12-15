@@ -10,7 +10,9 @@ I am documenting my learning journey, projects, and experiments throughout my en
 
 
 ## Blog
-- Coming soon
+- Understanding IR Sensors
+- Debugging Arduino input pins
+
 
 ## Links
 - GitHub: https://github.com/shirinayaa
