@@ -6,7 +6,8 @@ ECE undergraduate student interested in embedded systems and electronics.
 I am documenting my learning journey, projects, and experiments throughout my engineering degree.
 
 ## Projects
-- Coming soon
+- [Arduino IR Sensor Project](https://github.com/shirinayaa/arduino-ir-sensor)
+
 
 ## Blog
 - Coming soon
